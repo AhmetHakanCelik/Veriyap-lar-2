@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1639822141 source:c:\users\ahmet\desktop\c\Ödev3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Node.h"
+	"CreateList.h"
+	"AddNode.h"
+	"ListYazdir.h"
+	"DestroyList.h"
+	"RemoveNode.h"
+	"SearchList.h"
+
+1639856543 c:\users\ahmet\desktop\c\Ödev3\node.h
+
+1639763202 c:\users\ahmet\desktop\c\Ödev3\createlist.h
+
+1640623706 c:\users\ahmet\desktop\c\Ödev3\addnode.h
+
+1639755599 c:\users\ahmet\desktop\c\Ödev3\addnodebeg.h
+
+1639757729 c:\users\ahmet\desktop\c\Ödev3\addnodelast.h
+
+1639760954 c:\users\ahmet\desktop\c\Ödev3\lengthoflist.h
+
+1639822205 c:\users\ahmet\desktop\c\Ödev3\listyazdir.h
+
+1639765684 c:\users\ahmet\desktop\c\Ödev3\destroylist.h
+
+1639860714 c:\users\ahmet\desktop\c\Ödev3\removenode.h
+
+1639860713 c:\users\ahmet\desktop\c\Ödev3\searchlist.h
+
